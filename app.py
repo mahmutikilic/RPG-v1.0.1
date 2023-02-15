@@ -31,7 +31,7 @@ def countminus():
         buttonplus.place(x = 305, y = 50)
     return count
 
-# === copy functions ===
+# === copy pass functions ===
 def copylabel():
     if createdPassEntry.get() == "Copy text...":
         c.copy("You didn't create any password!")
