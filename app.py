@@ -74,9 +74,9 @@ window.minsize(375,220) # en fazla azalabileceği ölçüler, en fazla artailece
 window.resizable(0,0) # büyüme ve küçülmeyi kapatma x ve ys de
 # window.state("normal") ilk açılışta nasıl olması gerektiği 
 
-copyIcon=PhotoImage(file = r"copy2.png")
+copyIcon=tk.PhotoImage(file = "app.png")
 passLenghtnotify = messagebox.showinfo(title="Minimum password Length", message="Default password length is set to 8.")
-metin1 = tk.Label(text = "| Pass Complexity | Pass Lenght |",font=("Helvetica", 18))
+metin1 = tk.Label(text = "| Pass Complexity Options | Pass Lenght |",font=("Helvetica", 13))
 metin1.place(x=5, y=5)
 # ======= CheckBox var and places ======
 numbers,minLatters,maxLatters,characs,specsChars = tk.IntVar(),tk.IntVar(),tk.IntVar(),tk.IntVar(),tk.IntVar()
