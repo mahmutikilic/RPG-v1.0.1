@@ -4,6 +4,7 @@ with 5 options, a password generator Python GUI application.
 This GUI app developed with Python Tkinter, random and clipboard modules. 
 The features are:
 -
+
 - Select password lenght.
 - Ability to set difficulty with 5 different password difficulties.
 - Created password never save anywhere!
