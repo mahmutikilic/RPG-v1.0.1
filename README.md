@@ -1,8 +1,6 @@
 
 # RPG-v1.0.1
-with 5 options, a password generator Python GUI application.
-
-This GUI app developed with Python Tkinter, random and clipboard modules.
+with 5 options, a password generator Python GUI application. This GUI app developed with Python Tkinter, random and clipboard modules.
 
 The features are:
 -
