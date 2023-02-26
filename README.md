@@ -1,6 +1,15 @@
 
 # RPG-v1.0.1
 with 5 options, a password generator Python GUI application. 
+This GUI app developed with Python Tkinter, random and clipboard modules. 
+The features are:
+-
+- Select password lenght.
+- Ability to set difficulty with 5 different password difficulties.
+- Created password never save anywhere!
+- Create unlimited password with options and lenghts.
+- One click copy password.
+
 
 Interface:
 
@@ -11,11 +20,3 @@ Interface:
 
 > This notification is about default vaule that password lentgth!
 
-This GUI app developed with Python Tkinter, random and clipboard modules. 
-### The features are:
-
-- Select password lenght.
-- Ability to set difficulty with 5 different password difficulties.
-- Created password never save anywhere!
-- Create unlimited password with options and lenghts.
-- One click copy password.
