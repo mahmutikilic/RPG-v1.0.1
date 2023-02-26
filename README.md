@@ -11,3 +11,11 @@ Interface:
 
 > This notification is about default vaule that password lentgth!
 
+This GUI app developed with Python Thkinter. 
+### The features are:
+
+- Select password lenght 
+- Ability to set difficulty with 5 different password difficulties 
+- Created password never save anywhere!
+- Create unlimited password with options and lenghts
+- One click copy password
