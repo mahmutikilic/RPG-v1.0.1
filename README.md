@@ -7,7 +7,7 @@ The features are:
 
 - Select password lenght.
 - Ability to set difficulty with 5 different password difficulties.
-- Created password never save anywhere!
+- Created password never save anywhere and dont send anywhere!
 - Create unlimited password with options and lenghts.
 - One click copy password.
 
