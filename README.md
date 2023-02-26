@@ -11,7 +11,7 @@ Interface:
 
 > This notification is about default vaule that password lentgth!
 
-This GUI app developed with Python Thkinter. 
+This GUI app developed with Python Tkinter, random and clipboard libs. 
 ### The features are:
 
 - Select password lenght.
